@@ -1,0 +1,23 @@
+body{ background-color: #AEFEFF;}
+
+h1{ font-size: 50;
+text-align: center;}
+
+h2{ font-size: 30;
+text-align: center;}
+
+h3{ font-size: 20;
+text-align: center;}
+
+img{ float: center;}
+
+div{ align-items: center;}
+
+.img{
+    width: 100%;
+    height: min-content;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
